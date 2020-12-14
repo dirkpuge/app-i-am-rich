@@ -1,2 +1,2 @@
 # app-i-am-rich
-App I am Rich
+Created simple IOS App for course, using xcode to create the interface. Also created app Icon and images for said app using various resources. 
